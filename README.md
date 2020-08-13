@@ -2,12 +2,6 @@
 [![Sponsors on Open Collective](https://opencollective.com/dnd/sponsors/badge.svg)](#sponsors)
 [![HitCount](http://hits.dwyl.com/DNDACADEMY/dndacademygithubio.svg)](http://hits.dwyl.com/DNDACADEMY/dndacademygithubio)
 
-# dndacademy.github.io - (Memoirs Jekyll Theme)
-
-- Copyright &copy; 2019-2020, [https://dndacademy.github.io/](https://dndacademy.github.io/)
-- Author: Gidong Seong
-- Licensed under the terms of the MIT License.
-
 ## Settings
 
 ```

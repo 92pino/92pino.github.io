@@ -4,7 +4,7 @@ title: "iOS.devPino"
 description: "오늘도 기록하기"
 logo: "assets/images/logo/logo.png"
 favicon: "assets/images/logo/logo.png"
-# baseurl: /jekyll-theme-memoirs
+baseurl: ""
 google_analytics: "UA-129411483-1"
 disqus: "92pino"
 mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
