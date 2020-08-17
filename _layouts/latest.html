@@ -7,7 +7,7 @@ permalink: "/latest.html"
 {% assign counter = 0 %}
 <div class="blog-grid-container">
     {% for i in (0...2)%}
-        {% assign post = site.posts[i] %}
-        {% include postbox.html %}
-    {% endfor %} 
+{% assign post = site.posts[i] %}
+{% include postbox.html %}
+{% endfor %}
 </div>
