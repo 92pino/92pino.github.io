@@ -1,7 +1,7 @@
 # Site
-name: "기억보단 기록"
+name: "기록저장소"
 title: "iOS.devPino"
-description: "오늘도 기록하기"
+description: "Write the Code. Change the World."
 logo: "assets/images/logo/logo.png"
 favicon: "assets/images/logo/logo.png"
 baseurl: ""
